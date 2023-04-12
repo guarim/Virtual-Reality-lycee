@@ -11,7 +11,7 @@ body{
     background-color: #000;
     /*margin: 0px;
     overflow: hidden;*/
-	color: #fff;
+	color: #a2a2a2;
 	font-family: 'Arial',
 }
 
@@ -31,7 +31,7 @@ a:link, a:hover, a:visited, a:active {
 .info{
 	font-family: Arial;
 	position:absolute;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(155, 155, 155, 0.7);
     padding: 30px;
     display: flex;
     flex-direction: column;
